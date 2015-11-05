@@ -10,7 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:src="@drawable/page0"
+        android:src="@drawable/main_title"
         android:scaleType="fitXY"
         android:adjustViewBounds="true"
         android:contentDescription="Imagen principal"/>
@@ -30,6 +30,6 @@
         android:id="@+id/nombre"
         android:layout_above="@+id/boton1"
         android:layout_centerHorizontal="true"
-        android:hint="Cual es tu nombre mijo?"
+        android:hint="Cual es tu nombre adventurero?"
         android:maxLength="20" />
 </RelativeLayout>
